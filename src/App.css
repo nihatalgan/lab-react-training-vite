@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.dark {
+  font-weight: bolder;
+}
+.id_contain {
+  border: 2px solid black;
+  margin: 2rem;
+}
