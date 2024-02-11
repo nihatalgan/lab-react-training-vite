@@ -1,6 +1,5 @@
 function Random(props) {
   let num = Math.floor(Math.random() * (props.max - props.min + 1) + props.min);
-  console.log(num);
 
   return (
     <div className="id_contain">
